@@ -10,10 +10,19 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>verify-ui</title>
+    <title>filter-user</title>
   </head>
   <body>
-    <div class="container"></div>
+    <div class="container">
+      <header class="header">
+        <h4 class="title">Live User filter</h4>
+        <small class="subtitle">Search by name and /or location</small>
+        <input type="text" id="filter" placeholder="search" />
+      </header>
+      <ul id="result" class="user-list">
+        <h3>Loading...</h3>
+      </ul>
+    </div>
     <script src="./script.js"></script>
   </body>
 </html>
