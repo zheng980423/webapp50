@@ -1,34 +1,34 @@
 ## 项目 1-expandingcard
 
-![项目预览 ](screnshot/project1.jpg)
+![项目预览 ](screeshot/project1.jpg)
 
 ## 项目 2-progressbar
 
-![项目预览 ](screnshot/project2.jpg)
+![项目预览 ](screeshot/project2.jpg)
 
 ## 项目 3-rotatemenu
 
-![项目预览 ](screnshot/project3.jpg)
+![项目预览 ](screeshot/project3.jpg)
 
 ## 项目 4-hiddensearch
 
-![项目预览 ](screnshot/project4.jpg)
+![项目预览 ](screeshot/project4.jpg)
 
 ## 项目 5-blurring effect
 
-![项目预览 ](screnshot/project5.jpg)
+![项目预览 ](screeshot/project5.jpg)
 
 ## 项目 6-scrollanimation
 
-![项目预览 ](screnshot/project6.jpg)
+![项目预览 ](screeshot/project6.jpg)
 
 ## 项目 7-splitlanding
 
-![项目预览 ](screnshot/project7.jpg)
+![项目预览 ](screeshot/project7.jpg)
 
 ## 项目 8-formwave
 
-![项目预览 ](screnshot/project8.jpg)
+![项目预览 ](screeshot/project8.jpg)
 
 ## 项目 10-dadjokes
 
