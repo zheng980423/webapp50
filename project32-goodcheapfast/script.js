@@ -15,7 +15,7 @@ function doTheTrick(theClickedOne) {
       good.checked = false;
     }
     if (fast === theClickedOne) {
-      cheap.checked = fast;
+      cheap.checked = false;
     }
   }
 }
